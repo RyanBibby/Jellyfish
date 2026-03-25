@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Mic")(type "KiCad")(uri "//NAS/AlexsDocuments/Projects/EMF/Jellyfish/boards/Microphone/inmp441_microphone_i2s.kicad_sym")(options "")(descr ""))
+)

@@ -38,7 +38,8 @@ pico_sdk_init()
 
 add_executable(JellyOS 
     JellyOS.cpp
-   )
+        JellyOS.cpp
+)
 
 
 pico_generate_pio_header(JellyOS ${CMAKE_CURRENT_LIST_DIR}/i2s_microphone.pio)
